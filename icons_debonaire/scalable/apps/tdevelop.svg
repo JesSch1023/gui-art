@@ -8,7 +8,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
@@ -35,36 +34,6 @@
   </metadata>
   <defs
      id="defs6">
-    <filter
-       id="filter7554"
-       color-interpolation-filters="sRGB">
-      <feBlend
-         id="feBlend7556"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
-    <linearGradient
-       id="linearGradient3045">
-      <stop
-         style="stop-color:#847784;stop-opacity:0.99607843"
-         offset="0"
-         id="stop3047" />
-      <stop
-         style="stop-color:#695f69;stop-opacity:1"
-         offset="1"
-         id="stop3049" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4213">
-      <stop
-         id="stop4215"
-         offset="0"
-         style="stop-color:#b1d7f3;stop-opacity:1" />
-      <stop
-         id="stop4217"
-         offset="1"
-         style="stop-color:#8fafda;stop-opacity:1" />
-    </linearGradient>
     <linearGradient
        id="linearGradient5460"
        osb:paint="gradient">
@@ -85,81 +54,6 @@
          offset="0"
          id="stop5478" />
     </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter4154">
-      <feComposite
-         id="feComposite4156"
-         in2="SourceGraphic"
-         k3="0"
-         k2="1"
-         k1="0"
-         result="composite1"
-         k4="0"
-         operator="arithmetic" />
-      <feColorMatrix
-         id="feColorMatrix4158"
-         type="saturate"
-         values="0"
-         result="colormatrix1"
-         in="composite1" />
-      <feFlood
-         id="feFlood4160"
-         result="flood1"
-         flood-color="rgb(72,59,72)" />
-      <feBlend
-         id="feBlend4162"
-         result="blend1"
-         mode="multiply"
-         in2="colormatrix1"
-         in="flood1" />
-      <feBlend
-         id="feBlend4164"
-         mode="screen"
-         in2="blend1"
-         result="blend2" />
-      <feColorMatrix
-         id="feColorMatrix4166"
-         type="saturate"
-         values="1"
-         result="colormatrix2"
-         in="blend2" />
-      <feComposite
-         id="feComposite4168"
-         operator="in"
-         result="composite2"
-         in2="SourceGraphic"
-         in="colormatrix2" />
-    </filter>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath3062">
-      <rect
-         style="color:#000000;fill:url(#linearGradient3066);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:40;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-         id="rect3064"
-         width="475.66452"
-         height="445.93549"
-         x="34.167744"
-         y="-194.96773" />
-    </clipPath>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3045"
-       id="linearGradient3066"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.8580645,0,0,1.8736786,4.4387126,-288.65166)"
-       x1="256"
-       y1="50"
-       x2="256"
-       y2="288" />
-    <filter
-       id="filter7554-5"
-       color-interpolation-filters="sRGB">
-      <feBlend
-         id="feBlend7556-3"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
@@ -206,14 +100,15 @@
      fit-margin-bottom="0"
      showguides="true"
      inkscape:zoom="8.46875"
-     inkscape:cx="32"
-     inkscape:cy="32"
+     inkscape:cx="33.934508"
+     inkscape:cy="27.127286"
      inkscape:window-x="-3"
      inkscape:window-y="-4"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:snap-grids="true" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke-width:0.74765211;filter:url(#filter4937);opacity:0.2"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:0.74765211;filter:url(#filter4937)"
      d="m 14.748245,2.0955137 c -0.137284,0.01413 -0.269875,0.07488 -0.372984,0.178589 l -4.7716906,4.770836 c -0.200621,0.201195 -0.238416,0.513188 -0.09051,0.756798 l 5.5866226,9.2011093 c -0.990846,1.665794 -1.785008,3.461826 -2.352602,5.356506 L 2.4909444,24.492641 c -0.285356,0.05906 -0.490946,0.311937 -0.490946,0.604771 v 6.747153 c 0,0.285346 0.195222,0.532488 0.470176,0.598951 l 9.9545766,2.433187 c 0.530845,2.194352 1.353461,4.274488 2.440679,6.186405 l -5.7619096,8.78657 c -0.160756,0.245559 -0.127157,0.569054 0.08054,0.775899 l 4.7700176,4.770864 c 0.200622,0.200065 0.513821,0.239343 0.758458,0.09212 l 9.029145,-5.483608 c 1.773594,1.023465 3.68634,1.828868 5.707914,2.375062 l 2.106713,10.129007 C 31.615608,62.796037 31.869288,63 32.160248,63 h 6.74798 c 0.28368,0 0.53124,-0.193566 0.59895,-0.471875 l 2.48137,-10.149775 c 2.08387,-0.562385 4.05477,-1.400594 5.871559,-2.470573 l 8.89788,5.834174 c 0.24466,0.161069 0.56823,0.128855 0.7759,-0.07884 l 4.7717,-4.770864 c 0.20184,-0.20176 0.23798,-0.513781 0.0897,-0.75677 l -6.07321,-7.692716 c -2.72646,-3.739762 -2.38842,-3.356667 -3.38377,-4.419334 -3.1987,6.260328 -9.706589,10.548523 -17.221739,10.548523 -10.677092,0 -19.333459,-8.656556 -19.333459,-19.334272 0,-7.854911 4.685091,-14.610147 11.410842,-17.636265 V 6.6137597 c -1.224073,0.428218 -2.407438,0.944515 -3.53142,1.556775 -8.23e-4,-7.64e-4 -0.0017,-0.0028 -0.0048,-0.0057 l -9.107213,-5.973228 c -0.122655,-0.08026 -0.264811,-0.112184 -0.402064,-0.09805 z"
      id="path5692_2_-3-2"
      inkscape:connector-curvature="0"
@@ -232,7 +127,7 @@
      rx="20.5"
      ry="20.500002" />
   <ellipse
-     style="opacity:1;fill:#3a9104;fill-opacity:1;stroke:none;stroke-width:0.62231982;stroke-opacity:0"
+     style="opacity:1;fill:#206b00;fill-opacity:1;"
      id="path5219-3"
      cx="36.000004"
      cy="27.999998"
@@ -244,14 +139,14 @@
      d="M 36.000058,7.4999633 A 20.499923,20.499923 0 0 0 15.500135,27.999906 20.499923,20.499923 0 0 0 15.515643,28.42908 20.499923,20.499923 0 0 1 35.999828,8.2323195 20.499923,20.499923 0 0 1 56.484378,28.303158 20.499923,20.499923 0 0 0 56.499887,27.999974 20.499923,20.499923 0 0 0 35.999964,7.5000292 Z"
      id="path5512-1" />
   <ellipse
-     style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.37946332;stroke-opacity:0"
+     style="opacity:1;fill:#fafafa;fill-opacity:1;"
      id="path5219-3-6"
      cx="33.495544"
      cy="33.277515"
      rx="12.5"
      ry="12.500001" />
   <path
-     style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="fill:#1a1a1a;fill-opacity:1;"
      d="m 22.495545,32.527516 11.999578,11 6.000422,-16.5 z"
      id="path4661"
      inkscape:connector-curvature="0"
