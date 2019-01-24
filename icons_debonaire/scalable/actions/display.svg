@@ -34,9 +34,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="4.234375"
-     inkscape:cx="-15.920216"
-     inkscape:cy="55.653713"
+     inkscape:zoom="8.46875"
+     inkscape:cx="32"
+     inkscape:cy="32"
      inkscape:window-x="-3"
      inkscape:window-y="-4"
      inkscape:window-maximized="1"
@@ -170,7 +170,7 @@
      transform="translate(-203.84209,274.18554)" />
   <g
      id="g4770"
-     style="fill:#d4d4d4">
+     style="fill:#1a1a1a">
     <rect
        id="rect4823"
        transform="matrix(0,-1,-1,0,0,0)"
@@ -180,7 +180,7 @@
        x="-55"
        height="30"
        width="4"
-       style="fill:#d4d4d4;stroke-width:0.82572275" />
+       style="fill:#1a1a1a;stroke-width:0.82572275" />
     <rect
        id="rect4827"
        ry="2.8571429"
@@ -189,7 +189,7 @@
        x="4.7272735"
        height="40"
        width="54.545452"
-       style="fill:#d4d4d4;stroke:none;stroke-width:1.39572632" />
+       style="fill:#1a1a1a;stroke:none;stroke-width:1.39572632" />
     <rect
        id="rect4827-2"
        ry="0.42857143"
@@ -198,7 +198,7 @@
        x="27"
        height="6"
        width="10"
-       style="fill:#d4d4d4;stroke:none;stroke-width:0.23145501;enable-background:new" />
+       style="fill:#1a1a1a;stroke:none;stroke-width:0.23145501;enable-background:new" />
   </g>
   <rect
      style="opacity:1;fill:#3689e6;stroke-width:1.39572632"
