@@ -34,9 +34,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="33.875"
-     inkscape:cx="8"
-     inkscape:cy="8"
+     inkscape:zoom="23.953242"
+     inkscape:cx="1.1495473"
+     inkscape:cy="4.7895605"
      inkscape:window-x="-3"
      inkscape:window-y="-4"
      inkscape:window-maximized="1"
@@ -86,126 +86,80 @@
        type="text/css">
    .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
   </style>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter4747"
-       x="-0.01106"
-       width="1.02212"
-       y="-0.013114624"
-       height="1.0262291">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.25136363"
-         id="feGaussianBlur4749" />
-    </filter>
   </defs>
   <g
-     id="g4745"
-     transform="matrix(0.25,0,0,0.25,18.483391,2.6967355)"
-     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4747)">
-    <rect
-       id="rect4823-6"
-       transform="matrix(0,-1,-1,0,0,0)"
-       ry="1.3636364"
-       rx="2"
-       y="26.933561"
-       x="-45.213058"
-       height="30"
-       width="4"
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82572275" />
-    <rect
-       id="rect4827-26"
-       ry="2.8571429"
-       rx="2.7272727"
-       y="-0.78694153"
-       x="-69.206291"
-       height="40"
-       width="54.545452"
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.39572632" />
-    <rect
-       id="rect4827-2-8"
-       ry="0.42857143"
-       rx="0.50000006"
-       y="36.213058"
-       x="-46.933563"
-       height="6"
-       width="10"
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23145501;enable-background:new" />
-  </g>
-  <g
-     id="layer9"
-     inkscape:label="status"
-     style="display:inline"
-     transform="matrix(0.25,0,0,0.25,-50.960523,68.546385)" />
-  <g
-     id="layer1"
-     inkscape:label="places"
-     style="display:inline"
-     transform="matrix(0.25,0,0,0.25,9.2895275,-85.703615)" />
-  <g
-     id="layer14"
-     inkscape:label="mimetypes"
-     style="display:inline"
-     transform="matrix(0.25,0,0,0.25,-50.960523,68.546385)" />
-  <g
-     id="layer15"
-     inkscape:label="emblems"
-     style="display:inline"
-     transform="matrix(0.25,0,0,0.25,-50.960523,68.546385)" />
-  <g
-     id="g71291"
-     inkscape:label="emotes"
-     style="display:inline"
-     transform="matrix(0.25,0,0,0.25,-50.960523,68.546385)" />
-  <g
-     id="layer2"
-     inkscape:label="categories"
-     style="display:inline"
-     transform="matrix(0.25,0,0,0.25,9.2895275,-48.203615)" />
-  <g
-     id="layer12"
-     inkscape:label="actions"
-     style="display:inline"
-     transform="matrix(0.25,0,0,0.25,-50.960523,68.546385)" />
-  <g
-     id="g4770"
-     style="fill:#1a1a1a"
-     transform="scale(0.25)">
+     id="g4522"
+     transform="matrix(1.1366667,0,0,1.1366667,-1.0933335,-1.0933336)">
+    <g
+       transform="matrix(0.25,0,0,0.25,-50.960523,68.546385)"
+       style="display:inline"
+       inkscape:label="status"
+       id="layer9" />
+    <g
+       transform="matrix(0.25,0,0,0.25,9.2895275,-85.703615)"
+       style="display:inline"
+       inkscape:label="places"
+       id="layer1" />
+    <g
+       transform="matrix(0.25,0,0,0.25,-50.960523,68.546385)"
+       style="display:inline"
+       inkscape:label="mimetypes"
+       id="layer14" />
+    <g
+       transform="matrix(0.25,0,0,0.25,-50.960523,68.546385)"
+       style="display:inline"
+       inkscape:label="emblems"
+       id="layer15" />
+    <g
+       transform="matrix(0.25,0,0,0.25,-50.960523,68.546385)"
+       style="display:inline"
+       inkscape:label="emotes"
+       id="g71291" />
+    <g
+       transform="matrix(0.25,0,0,0.25,9.2895275,-48.203615)"
+       style="display:inline"
+       inkscape:label="categories"
+       id="layer2" />
+    <g
+       transform="matrix(0.25,0,0,0.25,-50.960523,68.546385)"
+       style="display:inline"
+       inkscape:label="actions"
+       id="layer12" />
     <rect
        id="rect4823"
        transform="matrix(0,-1,-1,0,0,0)"
-       ry="1.3636364"
-       rx="2"
-       y="-47"
-       x="-55"
-       height="30"
-       width="4"
-       style="fill:#1a1a1a;stroke-width:0.82572275" />
+       ry="0.34090909"
+       rx="0.5"
+       y="-11.75"
+       x="-13.75"
+       height="7.5"
+       width="1"
+       style="fill:#1a1a1a;stroke-width:0.20643069" />
     <rect
        id="rect4827"
-       ry="2.8571429"
-       rx="2.7272727"
-       y="9"
-       x="4.7272735"
-       height="40"
-       width="54.545452"
-       style="fill:#1a1a1a;stroke:none;stroke-width:1.39572632" />
+       ry="0.71428573"
+       rx="0.68181819"
+       y="2.25"
+       x="1.1818184"
+       height="10"
+       width="13.636363"
+       style="fill:#1a1a1a;stroke:none;stroke-width:0.34893158" />
     <rect
        id="rect4827-2"
-       ry="0.42857143"
-       rx="0.50000006"
-       y="46"
-       x="27"
-       height="6"
-       width="10"
-       style="fill:#1a1a1a;stroke:none;stroke-width:0.23145501;enable-background:new" />
+       ry="0.10714286"
+       rx="0.12500001"
+       y="11.5"
+       x="6.75"
+       height="1.5"
+       width="2.5"
+       style="fill:#1a1a1a;stroke:none;stroke-width:0.05786375;enable-background:new" />
+    <rect
+       ry="0.68652266"
+       id="rect4829"
+       y="2.625"
+       x="1.5"
+       height="9.25"
+       width="13"
+       style="opacity:1;fill:#3689e6;stroke-width:0.40095139" />
   </g>
-  <rect
-     style="opacity:1;fill:#3689e6;stroke-width:0.34893158"
-     width="11.590909"
-     height="7.8571434"
-     x="2.2045457"
-     y="3.3214288"
-     id="rect4829" />
 </svg>
