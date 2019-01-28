@@ -34,9 +34,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="16.9375"
-     inkscape:cx="16"
-     inkscape:cy="16"
+     inkscape:zoom="11.976621"
+     inkscape:cx="-2.207641"
+     inkscape:cy="9.4054452"
      inkscape:window-x="-3"
      inkscape:window-y="-4"
      inkscape:window-maximized="1"
@@ -87,52 +87,27 @@
    .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
   </style>
     <filter
-       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter4747"
-       x="-0.01106"
-       width="1.02212"
-       y="-0.013114624"
-       height="1.0262291">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.25136363"
-         id="feGaussianBlur4749" />
+       id="filter7554-5">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-6" />
     </filter>
+    <filter
+       id="filter7554-0-2"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend7556-9-9"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+    <style
+       type="text/css"
+       id="current-color-scheme-2">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
   </defs>
-  <g
-     id="g4745"
-     transform="matrix(0.375,0,0,0.375,27.725087,4.0451033)"
-     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4747)">
-    <rect
-       id="rect4823-6"
-       transform="matrix(0,-1,-1,0,0,0)"
-       ry="1.3636364"
-       rx="2"
-       y="26.933561"
-       x="-45.213058"
-       height="30"
-       width="4"
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82572275" />
-    <rect
-       id="rect4827-26"
-       ry="2.8571429"
-       rx="2.7272727"
-       y="-0.78694153"
-       x="-69.206291"
-       height="40"
-       width="54.545452"
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.39572632" />
-    <rect
-       id="rect4827-2-8"
-       ry="0.42857143"
-       rx="0.50000006"
-       y="36.213058"
-       x="-46.933563"
-       height="6"
-       width="10"
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23145501;enable-background:new" />
-  </g>
   <g
      id="layer9"
      inkscape:label="status"
@@ -169,43 +144,42 @@
      style="display:inline"
      transform="matrix(0.375,0,0,0.375,-76.440784,102.81958)" />
   <g
-     id="g4770"
-     style="fill:#1a1a1a"
-     transform="scale(0.375)">
+     id="g4558"
+     transform="matrix(1.1244445,0,0,1.1244445,-1.4933335,-1.493334)">
     <rect
        id="rect4823"
        transform="matrix(0,-1,-1,0,0,0)"
-       ry="1.3636364"
-       rx="2"
-       y="-47"
-       x="-55"
-       height="30"
-       width="4"
-       style="fill:#1a1a1a;stroke-width:0.82572275" />
+       ry="0.51136363"
+       rx="0.75"
+       y="-17.625"
+       x="-20.625"
+       height="11.25"
+       width="1.5"
+       style="fill:#1a1a1a;stroke-width:0.30964604" />
     <rect
        id="rect4827"
-       ry="2.8571429"
-       rx="2.7272727"
-       y="9"
-       x="4.7272735"
-       height="40"
-       width="54.545452"
-       style="fill:#1a1a1a;stroke:none;stroke-width:1.39572632" />
+       ry="1.0714285"
+       rx="1.0227273"
+       y="3.375"
+       x="1.7727275"
+       height="15"
+       width="20.454544"
+       style="fill:#1a1a1a;stroke:none;stroke-width:0.52339739" />
     <rect
        id="rect4827-2"
-       ry="0.42857143"
-       rx="0.50000006"
-       y="46"
-       x="27"
-       height="6"
-       width="10"
-       style="fill:#1a1a1a;stroke:none;stroke-width:0.23145501;enable-background:new" />
+       ry="0.16071428"
+       rx="0.18750003"
+       y="17.25"
+       x="10.125"
+       height="2.25"
+       width="3.75"
+       style="fill:#1a1a1a;stroke:none;stroke-width:0.08679563;enable-background:new" />
+    <rect
+       id="rect4829"
+       y="4.375"
+       x="2.4999995"
+       height="13"
+       width="19"
+       style="opacity:1;fill:#3689e6;stroke-width:0.57464236" />
   </g>
-  <rect
-     style="opacity:1;fill:#3689e6;stroke-width:0.52339739"
-     width="17.386364"
-     height="11.785715"
-     x="3.3068185"
-     y="4.9821434"
-     id="rect4829" />
 </svg>
