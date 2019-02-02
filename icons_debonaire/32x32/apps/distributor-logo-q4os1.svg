@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt" />
       </cc:Work>
@@ -47,8 +47,8 @@
      id="namedview16"
      showgrid="false"
      inkscape:zoom="16.9375"
-     inkscape:cx="16"
-     inkscape:cy="16"
+     inkscape:cx="6.0221402"
+     inkscape:cy="15.439114"
      inkscape:window-x="-3"
      inkscape:window-y="-4"
      inkscape:window-maximized="1"
@@ -57,73 +57,37 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0" />
-  <g
-     id="g4649">
-    <circle
-       style="fill:#448aff;fill-opacity:1;stroke-width:0.5"
-       cx="16"
-       cy="16"
-       r="14"
-       id="circle4" />
-    <g
-       style="fill:#fafafa"
-       transform="matrix(0.02530212,0,0,0.02530212,26.660096,14.619681)"
-       id="g4629">
-      <g
-         style="fill:#fafafa"
-         id="g20-3"
-         transform="translate(-752.21365,-276.44649)">
-        <g
-           style="display:none;fill:#fafafa"
-           class="st0"
-           id="g6-6">
-          <path
-             style="display:inline;fill:#fafafa"
-             inkscape:connector-curvature="0"
-             class="st1"
-             d="m 431.3,357.4 c -9.9,35 -37.4,62.5 -72.4,72.4 v 232 C 520.5,648.4 649.2,519.2 662,357.4 Z"
-             id="path4-7" />
-        </g>
-        <g
-           style="fill:#fafafa"
-           id="g10-5">
-          <path
-             style="fill:#fafafa"
-             inkscape:connector-curvature="0"
-             class="st2"
-             d="M 229.2,357.4 H 0 C 12.8,519.7 142.3,649.2 304.6,662 V 430.7 c -36.4,-9.2 -65.2,-37.3 -75.4,-73.3 z"
-             id="path8-3" />
-        </g>
-        <g
-           style="fill:#fafafa"
-           id="g14-5">
-          <path
-             style="fill:#fafafa"
-             inkscape:connector-curvature="0"
-             class="st3"
-             d="M 304.6,226.9 V 0 C 142.8,12.8 13.6,141.5 0.1,303.1 h 228.3 c 9.4,-37.4 38.8,-66.8 76.2,-76.2 z"
-             id="path12-6" />
-        </g>
-        <g
-           style="fill:#fafafa"
-           id="g18-2">
-          <path
-             style="fill:#fafafa"
-             inkscape:connector-curvature="0"
-             class="st4"
-             d="M 432.1,303.1 H 661.8 C 648.5,142 520,13.5 358.9,0.1 v 227.6 c 36,10.2 64.1,39 73.2,75.4 z"
-             id="path16-9" />
-        </g>
-      </g>
-      <rect
-         style="fill:#fafafa;stroke-width:0.9999904"
-         x="-403.55606"
-         y="-159.68494"
-         transform="rotate(-45)"
-         class="st5"
-         width="142.49863"
-         height="260.0975"
-         id="rect22-1" />
-    </g>
-  </g>
+  <circle
+     id="circle4"
+     r="14"
+     cy="16"
+     cx="16"
+     style="fill:#448aff;fill-opacity:1;stroke-width:0.5" />
+  <path
+     style="fill:#fafafa;stroke-width:0.02530212"
+     inkscape:connector-curvature="0"
+     class="st2"
+     d="M 13.426742,16.667976 H 7.627496 c 0.3238671,4.106534 3.600492,7.383159 7.707026,7.707026 v -5.85238 c -0.920997,-0.23278 -1.649698,-0.943769 -1.90778,-1.854646 z"
+     id="path8-3" />
+  <path
+     style="fill:#fafafa;stroke-width:0.02530212"
+     inkscape:connector-curvature="0"
+     class="st3"
+     d="M 15.334522,13.36605 V 7.6249987 C 11.240639,7.9488658 7.9716048,11.205249 7.6300262,15.294071 H 13.4065 c 0.23784,-0.946299 0.981722,-1.690181 1.928022,-1.928021 z"
+     id="path12-6" />
+  <path
+     style="fill:#fafafa;stroke-width:0.02530212"
+     inkscape:connector-curvature="0"
+     class="st4"
+     d="m 18.560542,15.294071 h 5.811897 C 24.035921,11.2179 20.784598,7.9665773 16.708427,7.6275289 v 5.7587621 c 0.910876,0.258082 1.621866,0.986783 1.852115,1.90778 z"
+     id="path16-9" />
+  <rect
+     style="fill:#fafafa;stroke-width:0.02530188"
+     x="-1.6969644"
+     y="25.148844"
+     transform="rotate(-45)"
+     class="st5"
+     width="3.6055171"
+     height="6.581018"
+     id="rect22-1" />
 </svg>
