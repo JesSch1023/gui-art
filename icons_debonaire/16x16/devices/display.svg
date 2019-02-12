@@ -2,7 +2,6 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -34,9 +33,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="23.953242"
-     inkscape:cx="1.1495473"
-     inkscape:cy="4.7895605"
+     inkscape:zoom="11.976621"
+     inkscape:cx="3.6741368"
+     inkscape:cy="16.296643"
      inkscape:window-x="-3"
      inkscape:window-y="-4"
      inkscape:window-maximized="1"
@@ -57,30 +56,6 @@
      id="title8473">Paper Symbolic Icon Theme</title>
   <defs
      id="defs7386">
-    <filter
-       id="filter7554"
-       style="color-interpolation-filters:sRGB">
-      <feBlend
-         id="feBlend7556"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter7554-0">
-      <feBlend
-         mode="darken"
-         in2="BackgroundImage"
-         id="feBlend7556-9" />
-    </filter>
-    <linearGradient
-       osb:paint="solid"
-       id="linearGradient5606">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop5608" />
-    </linearGradient>
     <style
        id="current-color-scheme"
        type="text/css">
@@ -88,78 +63,82 @@
   </style>
   </defs>
   <g
-     id="g4522"
-     transform="matrix(1.1366667,0,0,1.1366667,-1.0933335,-1.0933336)">
+     id="g4513"
+     transform="matrix(0.55000002,0,0,0.55000002,-0.80000019,-0.80000032)">
     <g
-       transform="matrix(0.25,0,0,0.25,-50.960523,68.546385)"
+       transform="matrix(0.5,0,0,0.5,-101.92105,137.09277)"
        style="display:inline"
        inkscape:label="status"
        id="layer9" />
     <g
-       transform="matrix(0.25,0,0,0.25,9.2895275,-85.703615)"
+       transform="matrix(0.5,0,0,0.5,18.579055,-171.40723)"
        style="display:inline"
        inkscape:label="places"
        id="layer1" />
     <g
-       transform="matrix(0.25,0,0,0.25,-50.960523,68.546385)"
+       transform="matrix(0.5,0,0,0.5,-101.92105,137.09277)"
        style="display:inline"
        inkscape:label="mimetypes"
        id="layer14" />
     <g
-       transform="matrix(0.25,0,0,0.25,-50.960523,68.546385)"
+       transform="matrix(0.5,0,0,0.5,-101.92105,137.09277)"
        style="display:inline"
        inkscape:label="emblems"
        id="layer15" />
     <g
-       transform="matrix(0.25,0,0,0.25,-50.960523,68.546385)"
+       transform="matrix(0.5,0,0,0.5,-101.92105,137.09277)"
        style="display:inline"
        inkscape:label="emotes"
        id="g71291" />
     <g
-       transform="matrix(0.25,0,0,0.25,9.2895275,-48.203615)"
+       transform="matrix(0.5,0,0,0.5,18.579055,-96.40723)"
        style="display:inline"
        inkscape:label="categories"
        id="layer2" />
     <g
-       transform="matrix(0.25,0,0,0.25,-50.960523,68.546385)"
+       transform="matrix(0.5,0,0,0.5,-101.92105,137.09277)"
        style="display:inline"
        inkscape:label="actions"
        id="layer12" />
+    <g
+       transform="scale(0.5)"
+       style="fill:#1a1a1a"
+       id="g4770">
+      <rect
+         style="fill:#1a1a1a;stroke-width:0.82572275"
+         width="4"
+         height="30"
+         x="-55"
+         y="-47"
+         rx="2"
+         ry="1.3636364"
+         transform="matrix(0,-1,-1,0,0,0)"
+         id="rect4823" />
+      <rect
+         style="fill:#1a1a1a;stroke:none;stroke-width:1.39572632"
+         width="54.545452"
+         height="40"
+         x="4.7272735"
+         y="9"
+         rx="2.7272727"
+         ry="2.8571429"
+         id="rect4827" />
+      <rect
+         style="fill:#1a1a1a;stroke:none;stroke-width:0.23145501;enable-background:new"
+         width="10"
+         height="6"
+         x="27"
+         y="46"
+         rx="0.50000006"
+         ry="0.42857143"
+         id="rect4827-2" />
+    </g>
     <rect
-       id="rect4823"
-       transform="matrix(0,-1,-1,0,0,0)"
-       ry="0.34090909"
-       rx="0.5"
-       y="-11.75"
-       x="-13.75"
-       height="7.5"
-       width="1"
-       style="fill:#1a1a1a;stroke-width:0.20643069" />
-    <rect
-       id="rect4827"
-       ry="0.71428573"
-       rx="0.68181819"
-       y="2.25"
-       x="1.1818184"
-       height="10"
-       width="13.636363"
-       style="fill:#1a1a1a;stroke:none;stroke-width:0.34893158" />
-    <rect
-       id="rect4827-2"
-       ry="0.10714286"
-       rx="0.12500001"
-       y="11.5"
-       x="6.75"
-       height="1.5"
-       width="2.5"
-       style="fill:#1a1a1a;stroke:none;stroke-width:0.05786375;enable-background:new" />
-    <rect
-       ry="0.68652266"
        id="rect4829"
-       y="2.625"
-       x="1.5"
-       height="9.25"
-       width="13"
-       style="opacity:1;fill:#3689e6;stroke-width:0.40095139" />
+       y="6.6428576"
+       x="4.4090915"
+       height="15.714287"
+       width="23.181818"
+       style="opacity:1;fill:#3689e6;stroke-width:0.69786316" />
   </g>
 </svg>
