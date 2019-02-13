@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   height="48"
+   width="128"
+   height="128"
    version="1"
    id="svg56"
    sodipodi:docname="keyboard.svg"
@@ -40,9 +40,9 @@
      inkscape:window-height="703"
      id="namedview58"
      showgrid="false"
-     inkscape:zoom="11.291667"
-     inkscape:cx="24"
-     inkscape:cy="24"
+     inkscape:zoom="4.234375"
+     inkscape:cx="64"
+     inkscape:cy="64"
      inkscape:window-x="-3"
      inkscape:window-y="-4"
      inkscape:window-maximized="1"
@@ -52,46 +52,46 @@
      fit-margin-right="0"
      fit-margin-bottom="0" />
   <rect
-     style="fill:#667885;stroke-width:0.99999994"
-     width="40"
-     height="28"
-     x="3.9999998"
-     y="9.5"
-     rx="1.9999999"
-     ry="1.9999999"
+     style="fill:#667885;stroke-width:2.66666651"
+     width="106.66666"
+     height="74.666664"
+     x="10.666666"
+     y="25.333332"
+     rx="5.333333"
+     ry="5.333333"
      id="rect2" />
   <path
-     style="opacity:0.1;fill:#ffffff;stroke-width:0.99999994"
+     style="opacity:0.1;fill:#ffffff;stroke-width:2.66666651"
      inkscape:connector-curvature="0"
-     d="m 5.9999998,9.4999995 c -1.1079999,0 -1.9999999,0.8919995 -1.9999999,2.0000005 v 1 c 0,-1.108 0.892,-2.000001 1.9999999,-2.000001 H 41.999999 c 1.108,0 2,0.892001 2,2.000001 v -1 c 0,-1.108001 -0.892,-2.0000005 -2,-2.0000005 z"
+     d="m 16,25.333332 c -2.954667,0 -5.333334,2.378666 -5.333334,5.333334 v 2.666666 c 0,-2.954666 2.378667,-5.333334 5.333334,-5.333334 h 96 c 2.95466,0 5.33333,2.378668 5.33333,5.333334 v -2.666666 c 0,-2.954668 -2.37867,-5.333334 -5.33333,-5.333334 z"
      id="path4" />
   <path
-     style="opacity:0.2;stroke-width:0.99999994"
+     style="opacity:0.2;stroke-width:2.66666651"
      inkscape:connector-curvature="0"
-     d="m 3.9999999,35.499999 v 1 c 0,1.107999 0.892,2 1.9999999,2 H 41.999999 c 1.108,0 2,-0.892001 2,-2 v -1 c 0,1.108 -0.892,1.999999 -2,1.999999 H 5.9999998 c -1.1079999,0 -1.9999999,-0.891999 -1.9999999,-1.999999 z"
+     d="m 10.666666,94.666664 v 2.666666 c 0,2.95467 2.378667,5.33333 5.333334,5.33333 h 96 c 2.95466,0 5.33333,-2.37866 5.33333,-5.33333 v -2.666666 c 0,2.954666 -2.37867,5.333332 -5.33333,5.333332 H 16 c -2.954667,0 -5.333334,-2.378666 -5.333334,-5.333332 z"
      id="path6" />
   <rect
-     style="opacity:0.2;stroke-width:0.86602539"
-     width="22.5"
-     height="3.9999998"
-     x="12.75"
-     y="31.25"
+     style="opacity:0.2;stroke-width:2.30940104"
+     width="60"
+     height="10.666666"
+     x="34"
+     y="83.333336"
      rx="0"
      ry="0"
      id="rect30" />
   <rect
-     style="fill:#fafafa;stroke-width:0.9185586"
-     width="22.5"
-     height="4.5"
-     x="12.75"
-     y="29.999996"
+     style="fill:#fafafa;stroke-width:2.44948959"
+     width="60"
+     height="12"
+     x="34"
+     y="79.999992"
      rx="0"
      ry="0"
      id="rect54" />
   <g
      style="opacity:0.2;fill:#000000"
      id="g4709-6"
-     transform="matrix(0.75,0,0,0.75,0,0.50000091)">
+     transform="matrix(2,0,0,2,0,1.3333358)">
     <rect
        y="20.333332"
        x="9"
@@ -137,7 +137,7 @@
   </g>
   <g
      style="opacity:0.2;fill:#000000"
-     transform="matrix(0.75,0,0,0.75,0,8.750001)"
+     transform="matrix(2,0,0,2,0,23.333336)"
      id="g4709-2-9">
     <rect
        y="20.333332"
@@ -184,7 +184,7 @@
   </g>
   <g
      id="g4709"
-     transform="matrix(0.75,0,0,0.75,0,-0.24999904)">
+     transform="matrix(2,0,0,2,0,-0.66666412)">
     <rect
        y="20.333332"
        x="9"
@@ -229,7 +229,7 @@
        style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:none;stroke-opacity:1" />
   </g>
   <g
-     transform="matrix(0.75,0,0,0.75,0,8.000001)"
+     transform="matrix(2,0,0,2,0,21.333336)"
      id="g4709-2">
     <rect
        y="20.333332"
