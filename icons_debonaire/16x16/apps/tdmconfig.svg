@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333333"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="login-manager.svg"
+   inkscape:export-filename="/home/john/Nextcloud/Q4OS Stuff/icons/Paper-Q4OS/16x16/software-store.png"
+   inkscape:export-xdpi="24"
+   inkscape:export-ydpi="24">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="23.953242"
+     inkscape:cx="3.8181243"
+     inkscape:cy="6.3003488"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="703"
+     inkscape:window-x="-3"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-8.1062319e-7,-292.76666)">
+    <g
+       id="g4826"
+       transform="matrix(1.1698143,0,0,1.1698143,-0.32075128,-50.114104)">
+      <path
+         sodipodi:nodetypes="ssscs"
+         inkscape:connector-curvature="0"
+         id="path5217-7"
+         d="m 1.6884161,295.69029 c 0.1464271,0.29471 0.5657673,0.31828 0.9866492,0.3175 0.4208816,-10e-4 0.8433052,-0.0259 0.9958987,-0.3175 0.2544095,-0.48616 -1.0366539,-1.66686 -1.0366539,-1.66686 0,0 -1.1976162,1.16023 -0.945894,1.66686 z"
+         style="fill:#68b723;stroke:none;stroke-width:0.02042335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <ellipse
+         ry="0.76067728"
+         rx="0.76067722"
+         cy="293.92422"
+         cx="2.6789074"
+         id="path5219-3"
+         style="opacity:1;fill:#68b723;fill-opacity:1;stroke:none;stroke-width:0.02309193;stroke-opacity:0" />
+      <path
+         sodipodi:nodetypes="ssscs"
+         inkscape:connector-curvature="0"
+         id="path5217"
+         d="m 0.49779087,296.35175 c 0.14642713,0.29471 0.56576743,0.31828 0.98664933,0.3175 0.4208816,-5e-4 0.8433052,-0.0259 0.9958985,-0.3175 0.2544096,-0.48616 -1.0366537,-1.66686 -1.0366537,-1.66686 0,0 -1.19761629,1.16022 -0.94589413,1.66686 z"
+         style="fill:#3689e6;stroke:none;stroke-width:0.02042335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <ellipse
+         ry="0.76067728"
+         rx="0.76067722"
+         cy="294.58566"
+         cx="1.4882821"
+         id="path5219"
+         style="opacity:1;fill:#3689e6;fill-opacity:1;stroke:none;stroke-width:0.02309193;stroke-opacity:0" />
+    </g>
+  </g>
+</svg>
