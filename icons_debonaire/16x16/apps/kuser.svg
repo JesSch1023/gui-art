@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="login-manager.svg"
+   sodipodi:docname="kuser.svg"
    inkscape:export-filename="/home/john/Nextcloud/Q4OS Stuff/icons/Paper-Q4OS/16x16/software-store.png"
    inkscape:export-xdpi="24"
    inkscape:export-ydpi="24">
@@ -28,22 +28,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="23.953242"
-     inkscape:cx="3.8181243"
-     inkscape:cy="6.3003488"
+     inkscape:zoom="33.375"
+     inkscape:cx="8"
+     inkscape:cy="8"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="703"
-     inkscape:window-x="-3"
-     inkscape:window-y="-4"
-     inkscape:window-maximized="1"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0" />
+     inkscape:window-width="1362"
+     inkscape:window-height="695"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -60,36 +56,16 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-8.1062319e-7,-292.76666)">
-    <g
-       id="g4826"
-       transform="matrix(1.1698143,0,0,1.1698143,-0.32075128,-50.114104)">
-      <path
-         sodipodi:nodetypes="ssscs"
-         inkscape:connector-curvature="0"
-         id="path5217-7"
-         d="m 1.6884161,295.69029 c 0.1464271,0.29471 0.5657673,0.31828 0.9866492,0.3175 0.4208816,-10e-4 0.8433052,-0.0259 0.9958987,-0.3175 0.2544095,-0.48616 -1.0366539,-1.66686 -1.0366539,-1.66686 0,0 -1.1976162,1.16023 -0.945894,1.66686 z"
-         style="fill:#68b723;stroke:none;stroke-width:0.02042335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <ellipse
-         ry="0.76067728"
-         rx="0.76067722"
-         cy="293.92422"
-         cx="2.6789074"
-         id="path5219-3"
-         style="opacity:1;fill:#68b723;fill-opacity:1;stroke:none;stroke-width:0.02309193;stroke-opacity:0" />
-      <path
-         sodipodi:nodetypes="ssscs"
-         inkscape:connector-curvature="0"
-         id="path5217"
-         d="m 0.49779087,296.35175 c 0.14642713,0.29471 0.56576743,0.31828 0.98664933,0.3175 0.4208816,-5e-4 0.8433052,-0.0259 0.9958985,-0.3175 0.2544096,-0.48616 -1.0366537,-1.66686 -1.0366537,-1.66686 0,0 -1.19761629,1.16022 -0.94589413,1.66686 z"
-         style="fill:#3689e6;stroke:none;stroke-width:0.02042335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <ellipse
-         ry="0.76067728"
-         rx="0.76067722"
-         cy="294.58566"
-         cx="1.4882821"
-         id="path5219"
-         style="opacity:1;fill:#3689e6;fill-opacity:1;stroke:none;stroke-width:0.02309193;stroke-opacity:0" />
-    </g>
+     transform="translate(0,-292.76666)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#68b723;stroke:none;stroke-width:0.02389141px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2.813086,292.83281 a 0.88984667,0.88984675 0 0 0 -0.8898465,0.88985 0.88984667,0.88984675 0 0 0 0.3206953,0.68384 c -0.36449,0.4436 -0.7596257,1.03994 -0.5895535,1.38222 0.1712917,0.34477 0.6618195,0.37224 1.1541708,0.37134 0.4923508,-7.9e-4 0.9865469,-0.0302 1.1650518,-0.37134 0.1687706,-0.3225 -0.2437299,-0.90591 -0.6326249,-1.35093 a 0.88984667,0.88984675 0 0 0 0.3619535,-0.71513 0.88984667,0.88984675 0 0 0 -0.8898465,-0.88985 z"
+       id="path5217-7-9" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#3689e6;stroke:none;stroke-width:0.02389086px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1.4202547,293.60666 a 0.88982593,0.88982601 0 0 0 -0.88982571,0.88982 0.88982593,0.88982601 0 0 0 0.32068785,0.68385 c -0.3644815,0.44358 -0.75960825,1.0399 -0.58953979,1.38219 0.17128773,0.34474 0.66180435,0.37222 1.15414395,0.37131 0.4923395,-7.8e-4 0.9865242,-0.0302 1.1650251,-0.37131 0.1687668,-0.32251 -0.2437248,-0.9059 -0.6326105,-1.35091 a 0.88982593,0.88982601 0 0 0 0.361945,-0.71513 0.88982593,0.88982601 0 0 0 -0.8898259,-0.88982 z"
+       id="path5217-2" />
   </g>
 </svg>
