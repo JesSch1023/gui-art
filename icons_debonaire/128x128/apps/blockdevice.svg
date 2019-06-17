@@ -79,7 +79,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -100,51 +100,51 @@
        transform="matrix(0,0.10882057,-0.10820305,0,37.173957,219.12714)" />
     <polygon
        points="576,187.06149 540,124.70766 576,62.353829 648,62.353829 684,124.70766 648,187.06149 "
-       style="fill:#9bdb4d;stroke:none;stroke-width:9.13776016;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#d1ff82;stroke:none;stroke-width:9.13776016;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="55-2"
        transform="matrix(0,0.10882057,-0.10820305,0,37.173957,218.59798)" />
     <path
-       style="fill:#d1ff82;stroke:none;stroke-width:0.48664999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#9bdb4d;stroke:none;stroke-width:0.48664999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 16.933332,289.1137 6.638055,3.85226 v -7.7698 l -6.638055,-3.91754 z"
        id="path6449-62-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:#d1ff82;stroke:none;stroke-width:0.48664999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#68b723;stroke:none;stroke-width:0.48664999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 30.427085,289.1137 -6.638056,3.85226 v -7.7698 l 6.638056,-3.91754 z"
        id="path6449-62-7-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <polygon
        points="648,62.353829 684,124.70766 648,187.06149 576,187.06149 540,124.70766 576,62.353829 "
-       style="fill:#f37329;stroke:none;stroke-width:9.13776016;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffc27d;stroke:none;stroke-width:9.13776016;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="55-4"
        transform="matrix(0,0.10882057,-0.10820305,0,23.680209,218.59798)" />
     <path
-       style="fill:#ffc27d;stroke:none;stroke-width:0.48664999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#ffa154;stroke:none;stroke-width:0.48664999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 3.4395829,289.1137 6.6380541,3.85226 v -7.7698 l -6.6380541,-3.91754 z"
        id="path6449-62-78"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:#ffa154;stroke:none;stroke-width:0.48664999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#f37329;stroke:none;stroke-width:0.48664999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 16.933335,289.1137 -6.638056,3.85226 v -7.7698 l 6.638056,-3.91754 z"
        id="path6449-62-7-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <polygon
        points="684,124.70766 648,187.06149 576,187.06149 540,124.70766 576,62.353829 648,62.353829 "
-       style="fill:#a56de2;stroke:none;stroke-width:9.13776016;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#e4c6fa;stroke:none;stroke-width:9.13776016;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="55"
        transform="matrix(0,0.10882057,-0.10820305,0,30.427091,208.1512)" />
     <path
-       style="fill:#e4c6fa;stroke:none;stroke-width:0.48664999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#cd9ef7;stroke:none;stroke-width:0.48664999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 10.186465,278.66692 6.638054,3.85226 v -7.7698 l -6.638054,-3.91754 z"
        id="path6449-62"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:#cd9ef7;stroke:none;stroke-width:0.48664999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#a56de2;stroke:none;stroke-width:0.48664999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 23.680217,278.66692 -6.638056,3.85226 v -7.7698 l 6.638056,-3.91754 z"
        id="path6449-62-7"
        inkscape:connector-curvature="0"
